@@ -1,4 +1,3 @@
-# netflix-sql-project
 # Netflix SQL Data Analysis Project
 
 This project explores and analyzes the **Netflix Movies and TV Shows** dataset using SQL inside a Jupyter Notebook. The dataset was sourced from Kaggle and loaded into a SQLite database using Python. SQL queries were used to answer key questions about content types, genres, ratings, countries, and trends over time. Visualizations were created using **Seaborn** and **Matplotlib**.
